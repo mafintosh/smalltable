@@ -1,6 +1,6 @@
 {
   "name": "smalltable",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "An on-disk key-value store with very few features",
   "main": "index.js",
   "dependencies": {
